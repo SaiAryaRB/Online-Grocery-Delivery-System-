@@ -1,0 +1,30 @@
+Milk(0.5 L),30.0,0
+Bread(1 loaf),50.0,0
+Egg(one dozen),150.0,47
+Rice(1 kg),100.0,45
+Potatoe(1 kg),50.0,49
+Onion(1 kg),50.0,50
+Tomato(1 kg),35.0,50
+Banana(500 g),50.0,50
+Apple(500 g),200.0,44
+Orange(1 kg),75.0,46
+Chips(1 packet),30.0,50
+Asafoetida(100 g),180.0,50
+Mango(1 kg),500.0,50
+Salt(1 kg),30.0,47
+Sugar(1 kg),60.0,50
+Flour(1kg),70.0,0
+Oil(1 l),120.0,50
+Tea(500 g),200.0,50
+Coffee(500 g),250.0,50
+Butter(250 g),75.0,50
+Cheese(10 slices),150.0,50
+Biscuits(1 packet),10.0,50
+Oatmeal(1kg),350.0,50
+Yogurt(pack of 6),300.0,50
+Ice Cream(1 tub),150.0,50
+Curd(500 g),30.0,49
+Tomato Ketchup (900 g),240.0,50
+Orange Juice(1 l),100.0,50
+Instant Noodles(150 g),35.0,50
+Cornflakes( 250 g),115.0,50
