@@ -14,28 +14,33 @@ Dataset Structure
 The product information is stored in a text file (dataset.txt). Each line in the file represents an item and follows the structure:
 ItenName, Price , Quantity
 
-Usage
-Adding Items to Cart:
 
+Usage
+
+Adding Items to Cart:
 Select the desired item from the displayed list to add it to your cart.
 Viewing Cart:
-
 Click on the "Show Cart" button to view the items in your cart.
 Removing Items from Cart:
-
 In the cart view, click the "Remove from Cart" button next to the item you want to remove.
 Confirming Order:
-
 Click the "Confirm Order" button to place your order. The total cost will be displayed, and the inventory will be updated accordingly.
+
+
 Security
+
 SSL/TLS Connection:
 The connection between the client and server is secured using SSL/TLS, ensuring the safety and integrity of data during transmission.
 Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
+
 License
+
 This project is licensed under the MIT License.
 
+
 Acknowledgements
+
 Tkinter for GUI development.
 Python’s socket and ssl libraries for handling server-client communication securely.
